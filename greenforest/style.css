@@ -82,7 +82,7 @@ a:hover {
 #logo h1 {
 	padding-top: 160px;
 	letter-spacing: -1px;
-	text-transform: lowercase;
+/* Header 	text-transform: lowercase;*/
 	font-size: 3.8em;
 }
 
