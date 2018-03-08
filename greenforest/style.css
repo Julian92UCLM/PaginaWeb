@@ -91,14 +91,14 @@ a:hover {
 	padding: 0px 0 0 10px;
 	font: normal 14px Georgia, "Times New Roman", Times, serif;
 	font-style: italic;
-	color: #000000;
+	color: #0000FF;
 } 
 
 #logo a {
 	border: none;
 	background: none;
 	text-decoration: none;
-	color: #000000;
+	color: #0000FF	;
 }
 
 /* Search */
